@@ -1,5 +1,5 @@
 /**
- * Created by angna on 7/22/18.
+ * Created by Natasha on 7/22/18.
  */
 public class LoneSum {
 
